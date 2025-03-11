@@ -1,0 +1,16 @@
+{
+  "sourceName": "AsiaFlix",
+  "iconUrl": "https://asiaflix.net/favicon.ico",
+  "author": {
+    "name": "Rikyo1923"
+  },
+  "version": "1.0.0",
+  "language": "English",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://asiaflix.net/",
+  "searchBaseUrl": "https://asiaflix.net/search?q=%s",
+  "scriptUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/sora-asiaflix-module/main/script.js",
+  "asyncJS": true,
+  "softsub": true
+}
